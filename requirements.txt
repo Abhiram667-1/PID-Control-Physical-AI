@@ -1,0 +1,1 @@
+numpy>=1.24\nmatplotlib>=3.7\n
